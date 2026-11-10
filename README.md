@@ -451,6 +451,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Netbird](https://github.com/aantti/mcp-netbird)** - List and analyze Netbird network peers, groups, policies, and more.
 - **[Nextcloud Calendar](https://github.com/Cheffromspace/mcp-nextcloud-calendar)** - CalDAV Nectcloud calendar integration. Manage calendars, events, attendees, etc.
 - **[Nexus](https://github.com/adawalli/nexus)** - Web search server that integrates Perplexity Sonar models via OpenRouter API for real-time, context-aware search with citations
+- **[NFC Tap Builder by Tap.Giving](https://github.com/Tap-Giving/tap-giving-mcp)** - Hosted remote MCP server for designing and ordering custom NFC tap discs for organizations, including churches, nonprofits, restaurants, coffee shops, and local businesses. REMOTE! Use the url [https://tap.giving/mcp](https://tap.giving/mcp) to add the server. Discovery, pricing, product facts, the artwork spec, order questions, order status, recaps, and order placement all work with no key and no login, at any point.
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
 - **[NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server)** - Manage NocoDB server, support read and write databases
 - **[NodeCodeStudio](https://nodecodestudio.com)** - Activate MCP services (Gmail, Calendar, WordPress, etc.) and run browser automation workflows via a Chrome extension with importable sequences
